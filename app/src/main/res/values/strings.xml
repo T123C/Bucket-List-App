@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bucket List</string>
+    <string name="activity_main_things_to_do">Things To Do</string>
+    <string name="activity_main_places_to_go">Places To Go</string>
+</resources>
